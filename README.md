@@ -14,7 +14,7 @@ ASP logic programs and Python helpers for normative reasoning.
 
 ## Python helpers
 
-- `asp_wrapper.py` runs the solver for ASP programs and collect answers set in easily reusable data structures. 
+- `asp_wrapper.py` runs the `clingo` ASP solver (https://potassco.org/clingo/) and collect answers set in easily reusable data structures. 
 - `ec_wrapper.py` runs and visualizes dynamic models based on event calculus.
 - `atemporal_model.py` runs and visualizes normative reasoning on static scenarios
 - `temporal_model.py` runs and visualizes normative reasoning on dynamic scenarios via event calculus
