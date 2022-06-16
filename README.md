@@ -100,7 +100,7 @@ The ASP axiomatization (based on event calculus) is meant to infer the dynamics 
 
 #### sale example
 
-Input: _By offering, John gives Paul the power to accept. By accepting, Paul creates upon John the duty to deliver, and upon himself_
+Input: _By offering, John gives Paul the power to accept. By accepting, Paul creates upon John the duty to deliver, and upon himself the duty to pay_
 
 Here we explore the space of execution paths for the 3 time steps:
 ```
