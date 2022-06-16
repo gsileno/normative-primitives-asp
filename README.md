@@ -7,7 +7,7 @@ ASP logic programs and Python helpers for normative reasoning.
 - `atemporal_model.lp` contains axioms for:
   - Hohfeld's framework of primitive concepts
   - Aristotelian squares constructed over primitive concepts (deontic, force power, outcome power, change power)
-  - closure norms (liberty and disabbility)
+  - closure norms (liberty and disability)
   - full liberty and full disability
 - `event_calculus.lp` contains simple event calculus axioms adjusted for agents performing actions.
 - `temporal_model_bridge.lp` contains bridging axioms from normative concepts to event calculus (eg. `ability` to `initiates`)
