@@ -6,7 +6,7 @@ ASP logic programs and Python helpers for normative reasoning.
 
 - `atemporal_model.lp` contains axioms for:
   - Hohfeld's framework of primitive concepts
-  - normative squares of oppotions (deontic, force power, outcome power, change power)
+  - normative squares of oppositions (deontic, force power, outcome power, change power)
   - closure norms (defaults: liberty and disability)
   - full liberty and full disability (more aligned to the common-sense meaning of these concepts)
 - `event_calculus.lp` contains simple event calculus axioms adjusted for agents performing actions.
